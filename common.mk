@@ -93,6 +93,14 @@ PRODUCT_PACKAGES += \
     audio.r_submix.default \
     audio.usb.default \
     liba2dpoffload \
+    libaudiopreprocessing \
+    libbundlewrapper \
+    libdownmix \
+    libdynproc \
+    libeffectproxy \
+    libldnhncr \
+    libreverbwrapper \
+    libvisualizer \
     libbatterylistener \
     libcirrusspkrprot \
     libcomprcapture \
