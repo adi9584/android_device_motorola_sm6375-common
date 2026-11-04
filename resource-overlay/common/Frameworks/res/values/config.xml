@@ -194,4 +194,8 @@
     <!-- If not empty, sets the AVC codec profile level used for the internal screen recorder.
          Possible values: 3, 3.1, 3.2, 4, 4.1, 4.2 -->
     <string name="config_screenRecorderAVCProfileLevel" translatable="false">3.1</string>
+
+    <!-- The max scale for the wallpaper when it's zoomed in.
+         Set to 1.0 to eliminate GPU wallpaper matrix scaling while blurring during shade pull-down -->
+    <item name="config_wallpaperMaxScale" format="float" type="dimen">1.0</item>
 </resources>
