@@ -29,3 +29,4 @@ ril.subscription.types=RUIM
 
 # WiFi
 ro.boot.wificountrycode=00
+persist.vendor.vonr_setting_support=1
